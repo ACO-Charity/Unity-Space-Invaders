@@ -5,8 +5,12 @@
 ## Anforderungen
 [Unity 3D](https://store.unity.com/download?ref=personal)
 
+Speicherplatz: ca 12.5GB
+
 ## Installation
 [Anleitung](installation.pdf)
+
+Installationszeit: 10min - 2Std (Je nach Internetgeschwindigkeit) 
 
 ## Workshop ProjektPhase
 [Guide](Workshop_ProjektPhase.pdf)
